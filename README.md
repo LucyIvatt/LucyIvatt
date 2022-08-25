@@ -4,7 +4,7 @@ I'm Lucy, a 5th year Computer Science student from the University of York. I rec
 
 # 📈GitHub Stats
 <a href="https://github.com/LucyIvatt/LucyIvatt">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LucyIvatt&hide=contribs,issues&count_private=true&show_icons=true&theme=tokyonight" alt="Lucy's Github Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LucyIvatt&hide=contribs,issues&count_private=true&show_icons=true&theme=tokyonight&layout=compact" alt="Lucy's Github Stats" />
 </a>
 <a href="https://github.com/LucyIvatt/LucyIvatt">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucyIvatt&langs_count=3&layout=compact&theme=tokyonight" alt="Lucy's Top Languages" />
