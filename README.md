@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Lucy, a 5th year Computer Science student from the University of York. I'm from Lincoln and recently completed a placement year at [Thales Underwater Systems](https://www.thalesgroup.com/en/activities/defence/naval-forces/underwater-warfare#overview) as a software engineer.  
+I'm Lucy, a 5th year Computer Science student from the University of York. I recently completed a placement year at [Thales Underwater Systems](https://www.thalesgroup.com/en/activities/defence/naval-forces/underwater-warfare#overview) as a software engineer, where I mostly created and modified user interfaces.  
 
 # 📈GitHub Stats
 
