@@ -5,6 +5,10 @@
 [![linkedin](https://img.shields.io/static/v1?label=&message=linkedin&color=%230A66C2&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucy-ivatt-29b7b8189/)
 [![steam](https://img.shields.io/static/v1?label=&message=steam&color=%231b2838&logo=steam&logoColor=white)](https://steamcommunity.com/id/Luceapuce/)
 
+![](https://img.shields.io/badge/day%20📅-22-blue) 
+![](https://img.shields.io/badge/stars%20⭐-34-yellow)
+![](https://img.shields.io/badge/days%20completed-17-red)
+
 I'm Lucy, a 5th year Computer Science student from the University of York. I recently completed a placement year at [Thales Underwater Systems](https://www.thalesgroup.com/en/activities/defence/naval-forces/underwater-warfare#overview) as a software engineer, where I mostly created and modified user interfaces. 
 
 # 📈GitHub Stats
