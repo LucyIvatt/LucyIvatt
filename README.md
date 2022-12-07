@@ -6,7 +6,7 @@
 [![steam](https://img.shields.io/static/v1?label=&message=steam&color=%231b2838&logo=steam&logoColor=white)](https://steamcommunity.com/id/Luceapuce/)
 
 ### Advent of Code 2022:
-![](https://img.shields.io/badge/day%20📅-6-blue) 
+![](https://img.shields.io/badge/day%20📅-7-blue) 
 ![](https://img.shields.io/badge/stars%20⭐-12-yellow)
 ![](https://img.shields.io/badge/days%20completed-6-red)
 
