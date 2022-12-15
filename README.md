@@ -11,8 +11,8 @@
 ![](https://img.shields.io/badge/days%20completed-15-red)
 
 ![](https://img.shields.io/badge/year%20📅-2021-blue) 
-![](https://img.shields.io/badge/stars%20⭐-34-yellow)
-![](https://img.shields.io/badge/days%20completed-17-red)
+![](https://img.shields.io/badge/stars%20⭐-30-yellow)
+![](https://img.shields.io/badge/days%20completed-15-red)
 
 
 I'm Lucy, a 5th year Computer Science student from the University of York. I recently completed a placement year at [Thales Underwater Systems](https://www.thalesgroup.com/en/activities/defence/naval-forces/underwater-warfare#overview) as a software engineer, where I mostly created and modified user interfaces. 
