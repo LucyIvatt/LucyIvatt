@@ -6,9 +6,9 @@
 [![steam](https://img.shields.io/static/v1?label=&message=steam&color=%231b2838&logo=steam&logoColor=white)](https://steamcommunity.com/id/Luceapuce/)
 
 ### Advent of Code 2022
-![](https://img.shields.io/badge/day%20📅-14-blue) 
-![](https://img.shields.io/badge/stars%20⭐-28-yellow)
-![](https://img.shields.io/badge/days%20completed-14-red)
+![](https://img.shields.io/badge/day%20📅-15-blue) 
+![](https://img.shields.io/badge/stars%20⭐-30-yellow)
+![](https://img.shields.io/badge/days%20completed-15-red)
 
 I'm Lucy, a 5th year Computer Science student from the University of York. I recently completed a placement year at [Thales Underwater Systems](https://www.thalesgroup.com/en/activities/defence/naval-forces/underwater-warfare#overview) as a software engineer, where I mostly created and modified user interfaces. 
 
