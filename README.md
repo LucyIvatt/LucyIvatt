@@ -5,7 +5,7 @@
 [![linkedin](https://img.shields.io/static/v1?label=&message=linkedin&color=%230A66C2&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucy-ivatt-29b7b8189/)
 [![steam](https://img.shields.io/static/v1?label=&message=steam&color=%231b2838&logo=steam&logoColor=white)](https://steamcommunity.com/id/Luceapuce/)
 
-### Advent of Code 2022
+### Advent of Code
 ![](https://img.shields.io/badge/year%20📅-2022-blue)
 ![](https://img.shields.io/badge/stars%20⭐-30-yellow)
 ![](https://img.shields.io/badge/days%20completed-15-red)
