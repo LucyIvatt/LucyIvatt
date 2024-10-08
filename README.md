@@ -10,7 +10,7 @@
 ![](https://img.shields.io/badge/stars%20⭐-29-yellow)
 ![](https://img.shields.io/badge/days%20completed-13-red)
 
-I'm Lucy, a 5th year Computer Science student from the University of York. I recently completed a placement year at [Thales Underwater Systems](https://www.thalesgroup.com/en/activities/defence/naval-forces/underwater-warfare#overview) as a software engineer, where I mostly created and modified user interfaces. I now work at [xDesign](https://xdesign.com/) as a graduate software engineer.
+I'm Lucy, a Software Engineer @ [CreateFuture](https://createfuture.com/). I recently completed my degree at the University of York - MEng Computer Science with a year in industry (1st class with distinction). During this degree I completed a placement year at [Thales Underwater Systems](https://www.thalesgroup.com/en/activities/defence/naval-forces/underwater-warfare#overview) as a software engineer intern.
 
 # 📈GitHub Stats
 <a href="https://github.com/LucyIvatt/LucyIvatt">
