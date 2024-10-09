@@ -8,6 +8,16 @@
 
 I'm a Software Engineer at [Create Future](https://createfuture.com/). I recently completed my MEng in Computer Science from the University of York, graduating with First Class Honours with Distinction. During my degree, I gained valuable experience through a placement year as a Software Engineer Intern at [Thales Underwater Systems](https://www.thalesgroup.com/en/activities/defence/naval-forces/underwater-warfare#overview), where I worked on cutting-edge defence technology projects.
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![JavaFx](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
+
 ## 👩‍💻 What I Do
 - **Software Development:** Working as a full-stack developer, with back-end experience in TypeScript, Node.js, and the Azure ecosystem. I am also [AWS Cloud Practitioner certified](https://www.credly.com/badges/2c00aea1-6422-4b2d-b36c-fccb08e0f0e4/linked_in_profile). My front-end experience consists of using React and Tailwind (as well as classic HTML/CSS) with testing in Jest, Vitest, and end-to-end testing on Playwright. 
 - **Other Experience:** I have also worked with Java and .NET, and am proficient in Python through my university coursework, personal projects, and challenges like Advent of Code.
