@@ -33,8 +33,10 @@ I'm a Software Engineer at [Create Future](https://createfuture.com/). I recentl
 <a href="https://github.com/LucyIvatt/LucyIvatt">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=LucyIvatt&count_private=true&show_icons=true&theme=tokyonight&line_height=40&hide=issues,contribs&rank_icon=github" alt="Lucy's Github Stats" />
 </a>
+<br>
+<br>
 <a href="https://github.com/LucyIvatt/LucyIvatt">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucyIvatt&langs_count=3&theme=tokyonight&hide=jupyter%20notebook" alt="Lucy's Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucyIvatt&langs_count=5&theme=tokyonight&hide=jupyter%20notebook" alt="Lucy's Top Languages" />
 </a>
 
 # 🎄 Advent of Code
