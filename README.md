@@ -41,6 +41,6 @@ I'm a Software Engineer at [Create Future](https://createfuture.com/). I recentl
 
 # 🎄 Advent of Code
 ![](https://img.shields.io/badge/year%20📅-2023-blue)
-![](https://img.shields.io/badge/stars%20⭐-29-yellow)
-![](https://img.shields.io/badge/days%20completed-13-red)
+![](https://img.shields.io/badge/stars%20⭐-0-yellow)
+![](https://img.shields.io/badge/days%20completed-0-red)
 
