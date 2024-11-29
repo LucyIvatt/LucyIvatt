@@ -20,7 +20,7 @@ I'm a Software Engineer at [Create Future](https://createfuture.com/). I recentl
 ![JavaFx](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
 
 ## 👩‍💻 What I Do
-- **Software Development:** Working as a full-stack developer, with back-end experience in TypeScript, Node.js, and the Azure ecosystem. I am also [AWS Cloud Practitioner certified](https://www.credly.com/badges/2c00aea1-6422-4b2d-b36c-fccb08e0f0e4/linked_in_profile). My front-end experience consists of using React and Tailwind (as well as classic HTML/CSS) with testing in Jest, Vitest, and end-to-end testing on Playwright. 
+- **Software Development:** Working as a full-stack developer, with back-end experience in TypeScript, Node.js, and the Azure ecosystem. I am also [AWS Cloud Practitioner](https://www.credly.com/badges/2c00aea1-6422-4b2d-b36c-fccb08e0f0e4/public_url) and [GitHub Copilot](https://www.credly.com/badges/0d5ea71f-d864-4759-aa63-43748e60167a/public_url) certified! My front-end experience consists of using React and Tailwind (as well as classic HTML/CSS) with testing in Jest, Vitest, and end-to-end testing on Playwright. 
 - **Other Experience:** I have also worked with Java and .NET, and am proficient in Python through my university coursework, personal projects, and challenges like Advent of Code.
 - **Writing & Contributions:** I've recently began contributing to tech articles—check out my [article](https://medium.com/the-tech-collective/mastering-git-bisect-how-to-easily-track-down-bugs-in-your-codebase-25b8e05e8af5) on `git-bisect`, written as part of the [Tech Collective](https://medium.com/the-tech-collective).
 
