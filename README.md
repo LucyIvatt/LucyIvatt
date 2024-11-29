@@ -19,6 +19,11 @@ I'm a Software Engineer at [Create Future](https://createfuture.com/). I recentl
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaFx](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
 
+# 🎄 Advent of Code 2024
+![](https://img.shields.io/badge/year%20📅-2024-blue)
+![](https://img.shields.io/badge/stars%20⭐-0-yellow)
+![](https://img.shields.io/badge/days%20completed-0-red)
+
 ## 👩‍💻 What I Do
 - **Software Development:** Working as a full-stack developer, with back-end experience in TypeScript, Node.js, and the Azure ecosystem. I am also [AWS Cloud Practitioner](https://www.credly.com/badges/2c00aea1-6422-4b2d-b36c-fccb08e0f0e4/public_url) and [GitHub Copilot](https://www.credly.com/badges/0d5ea71f-d864-4759-aa63-43748e60167a/public_url) certified! My front-end experience consists of using React and Tailwind (as well as classic HTML/CSS) with testing in Jest, Vitest, and end-to-end testing on Playwright. 
 - **Other Experience:** I have also worked with Java and .NET, and am proficient in Python through my university coursework, personal projects, and challenges like Advent of Code.
@@ -38,9 +43,4 @@ I'm a Software Engineer at [Create Future](https://createfuture.com/). I recentl
 <a href="https://github.com/LucyIvatt/LucyIvatt">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucyIvatt&langs_count=5&theme=tokyonight&hide=jupyter%20notebook" alt="Lucy's Top Languages" />
 </a>
-
-# 🎄 Advent of Code
-![](https://img.shields.io/badge/year%20📅-2023-blue)
-![](https://img.shields.io/badge/stars%20⭐-0-yellow)
-![](https://img.shields.io/badge/days%20completed-0-red)
 
