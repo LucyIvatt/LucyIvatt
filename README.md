@@ -21,8 +21,8 @@ I'm a Software Engineer at [Create Future](https://createfuture.com/). I recentl
 
 # 🎄 Advent of Code 2024
 ![](https://img.shields.io/badge/year%20📅-2024-blue)
-![](https://img.shields.io/badge/stars%20⭐-37-yellow)
-![](https://img.shields.io/badge/days%20completed-18-red)
+![](https://img.shields.io/badge/stars%20⭐-38-yellow)
+![](https://img.shields.io/badge/days%20completed-19-red)
 
 ## 👩‍💻 What I Do
 - **Software Development:** Working as a full-stack developer, with back-end experience in TypeScript, Node.js, and the Azure ecosystem. I am also [AWS Cloud Practitioner](https://www.credly.com/badges/2c00aea1-6422-4b2d-b36c-fccb08e0f0e4/public_url) and [GitHub Copilot](https://www.credly.com/badges/0d5ea71f-d864-4759-aa63-43748e60167a/public_url) certified! My front-end experience consists of using React and Tailwind (as well as classic HTML/CSS) with testing in Jest, Vitest, and end-to-end testing on Playwright. 
