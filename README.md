@@ -6,7 +6,7 @@
 [![linkedin](https://img.shields.io/static/v1?label=&message=linkedin&color=%230A66C2&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucy-ivatt-29b7b8189/)
 [![steam](https://img.shields.io/static/v1?label=&message=steam&color=%231b2838&logo=steam&logoColor=white)](https://steamcommunity.com/id/Luceapuce/)
 
-I'm a Software Engineer at [Create Future](https://createfuture.com/). I recently completed my MEng in Computer Science from the University of York, graduating with First Class Honours with Distinction. During my degree, I gained valuable experience through a placement year as a Software Engineer Intern at [Thales Underwater Systems](https://www.thalesgroup.com/en/activities/defence/naval-forces/underwater-warfare#overview), where I worked on cutting-edge defence technology projects.
+I'm a Software Engineer at [Quorum Cyber](https://www.quorumcyber.com/). I recently completed my MEng in Computer Science from the University of York, graduating with First Class Honours with Distinction. During my degree, I gained valuable experience through a placement year as a Software Engineer Intern at [Thales Underwater Systems](https://www.thalesgroup.com/en/activities/defence/naval-forces/underwater-warfare#overview), where I worked on cutting-edge defence technology projects.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
