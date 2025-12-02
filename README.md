@@ -19,8 +19,9 @@ I'm a Software Engineer at [Quorum Cyber](https://www.quorumcyber.com/). I have 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaFx](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
 
-# 🎄 Advent of Code 2024
-![](https://img.shields.io/badge/year%20📅-2024-blue)
+# 🎄 Advent of Code 2025
+![](https://img.shields.io/badge/year%20📅-2025-blue)
+![](https://img.shields.io/badge/day%20📅-22-blue)
 ![](https://img.shields.io/badge/stars%20⭐-4-yellow)
 ![](https://img.shields.io/badge/days%20completed-2-red)
 
