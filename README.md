@@ -21,9 +21,9 @@ I'm a Software Engineer at [Quorum Cyber](https://www.quorumcyber.com/). I have 
 
 # 🎄 Advent of Code 2025
 ![](https://img.shields.io/badge/year%20📅-2025-blue)
-![](https://img.shields.io/badge/days%20completed-3-red)
-![](https://img.shields.io/badge/day%20📅-3-blue)
-![](https://img.shields.io/badge/stars%20⭐-6-yellow)
+![](https://img.shields.io/badge/days%20completed-4-red)
+![](https://img.shields.io/badge/day%20📅-4-blue)
+![](https://img.shields.io/badge/stars%20⭐-8-yellow)
 
 
 ## 👩‍💻 What I Do
